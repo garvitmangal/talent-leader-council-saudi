@@ -1,0 +1,26 @@
+{
+    "trackers": [
+        "utm_source",
+        "utm_medium",
+        "utm_campaign",
+        "refid"
+    ],
+    "app_group": "TLC-KSA",
+    "payment": {
+        "tax": 0,
+        "currency": "USD",
+        "tax_name": "GST",
+        "plan": [
+            {
+                "name": "Standard",
+                "type": "STD",
+                "identifier": "standard",
+                "title": "Talent Leaders Council Member Pass"
+            }
+        ]
+    },
+    "promoCodes": {
+        "disabled": true
+    },
+    "ga_id": "G-0000000000"
+}
