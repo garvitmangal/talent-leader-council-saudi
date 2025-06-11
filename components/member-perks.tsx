@@ -12,7 +12,7 @@ export default function MemberPerks() {
                     <div className="flex-1 flex flex-col items-center text-center">
                         <div className="w-32 h-32 md:w-40 md:h-40 mb-6 relative">
                             <Image
-                                src="/v1748776539/tlc/2025/website/uae/member_3.webp"
+                                src="/v1749635067/tlc/2025/website/ksa/Asset_49.png"
                                 alt="Perk 1"
                                 fill
                                 className="object-contain"
@@ -28,7 +28,7 @@ export default function MemberPerks() {
                     <div className="flex-1 flex flex-col items-center text-center">
                         <div className="w-32 h-32 md:w-40 md:h-40 mb-6 relative">
                             <Image
-                                src="/v1748776539/tlc/2025/website/uae/member_1.webp"
+                                src="/v1749635066/tlc/2025/website/ksa/Asset_50.png"
                                 alt="Perk 2"
                                 fill
                                 className="object-contain"
@@ -44,7 +44,7 @@ export default function MemberPerks() {
                     <div className="flex-1 flex flex-col items-center text-center">
                         <div className="w-32 h-32 md:w-40 md:h-40 mb-6 relative">
                             <Image
-                                src="/v1748776539/tlc/2025/website/uae/member_2.webp"
+                                src="/v1749635066/tlc/2025/website/ksa/Asset_51.png"
                                 alt="Perk 3"
                                 fill
                                 className="object-contain"

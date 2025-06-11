@@ -65,41 +65,41 @@ export default function TlcStudyCircle() {
     const studyCircleItems = [
         {
             month: "Sept '25",
-            title: "Citizen Developers and the No-Code Workforce:",
-            description: "What Talent Leaders Must Prepare For: With no-code and low-code platforms rising, how should companies rethink talent models, upskilling, and innovation enablement?",
+            title: "Building High-Impact National Talent Strategies in a Diversified Economy:",
+            description: "How Saudi companies can align workforce planning and skills development with Vision 2030’s economic diversification—from oil to tourism, logistics, tech, and beyond?",
             bgColor: "bg-white",
             width: "w-full md:w-[40%]"
         },
         {
             month: "Nov '25",
-            title: "Beyond Emiratization:",
-            description: "Creating Thriving Talent Ecosystems: Moving from compliance-focused Emiratization to vibrant, inclusive talent ecosystems that drive innovation, entrepreneurship, and national pride.",
+            title: "Saudization 2.0:",
+            description: "From Compliance to Competitive Advantage: Evolving Saudization from a regulatory requirement to a strategic enabler for sustainable business and national talent empowerment.",
             bgColor: "bg-[#f0f0f0]",
             width: "w-full md:w-[40%]"
         },
         {
             month: "Nov '25",
-            description: "Experiential Study tour & get together at any chosen corporates",
+            description: "Experiential Study tour & get together at any chosen corporate",
             bgColor: "bg-gradient-to-r from-[#F79D67] via-[#F79721] to-[#F06280] text-white",
             width: "w-full md:w-[20%]",
             pClassName: "font-poppins text-white text-sm"
         },
         {
             month: "Jan '26",
-            title: "Building Global-Local Talent Identities:",
-            description: "Glocalization in Workforce Strategy: Blending global best practices with deep respect for UAE's national culture, heritage, and community aspirations.",
+            title: "Women in Leadership:",
+            description: "Unlocking Untapped Potential: Moving from policy to real progress—how to accelerate women’s participation and leadership across industries in support of Vision 2030 goals.",
             bgColor: "bg-[#f0f0f0]"
         },
         {
             month: "Mar '26",
-            title: "Hyper-Personalized Talent Experiences:",
-            description: "The Netflix-ization of Learning and Development: Designing learning and career experiences tailored to individual skills, aspirations, and learning styles, powered by AI and big data.",
+            title: "The Future of Work in a Digital-First KSA:",
+            description: "Preparing organizations for a hybrid, AI-enabled, and digitally native workforce while maintaining cultural and national values.",
             bgColor: "bg-[#DCDCDC]"
         },
         {
             month: "May '26",
-            title: "Talent Mobility Within the Gulf:",
-            description: "Building Regional Talent Ecosystems: How UAE can lead in creating a fluid, regional talent market across the GCC, attracting, developing, and exporting top talent?",
+            title: "The Rise of Portfolio Careers and the Future of Employment Models in KSA:",
+            description: "How flexible careers, gig work, freelancing, and portfolio careers will reshape traditional employment in Saudi Arabia—and what talent leaders must do to prepare",
             bgColor: "bg-white"
         },
         {
@@ -111,8 +111,8 @@ export default function TlcStudyCircle() {
         },
         {
             month: "June '26",
-            title: "Skills of the Future:",
-            description: "Bridging the Education-Employment Gap: How can business, academia, and government co-create next-gen skills pipelines that align with emerging industries and global standards?",
+            title: "Preparing Saudi Talent for the Global Innovation Economy:",
+            description: "Developing innovation capabilities, entrepreneurial mindsets, and R&D talent pipelines to position Saudi Arabia as a global innovation and knowledge economy hub.",
             bgColor: "bg-[#f0f0f0]",
             width: "w-full md:w-[60%]"
         }
@@ -125,12 +125,11 @@ export default function TlcStudyCircle() {
             </h2>
 
             <p className="font-poppins text-white leading-normal mt-2 text-center px-4 max-w-4xl mx-auto">
-                Talent Leaders Council Study Circle is a platform
-                for curated, collective learning. This will be an impactful initiative to
-                empower the talent leaders with collective learning, future-focused dialogue,
-                and collaborative action. Your leadership journey deserves more than just experience
-                - it deserves evolution. Through this circle, you&apos;ll not just stay relevant; you&apos;ll stay ahead,
-                shaping the future while accelerating your own.
+                Talent Leaders Council Study Circle is a platform for curated, collective learning. This will be
+                an impactful initiative to empower the talent leaders with collective learning, future-focused dialogue,
+                and collaborative action. Your leadership journey deserves more than just experience - it deserves
+                evolution. Through this circle, you&apos;ll not just stay relevant; you&apos;ll stay ahead, shaping the future
+                while accelerating your own.
             </p>
 
             <div className="flex flex-col rounded-2xl mt-10 md:mt-20">
