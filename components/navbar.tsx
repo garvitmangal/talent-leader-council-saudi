@@ -46,9 +46,9 @@ export default function Navbar({ darkMode = false }: { darkMode?: boolean }) {
                                 src={darkMode ? "/v1749452782/tlc/2025/website/ksa/tlc_logo_white.png" : "/v1749452634/tlc/2025/website/ksa/tlc_ksa_logo.png"}
                                 alt="TLC Logo"
                                 priority
-                                width={120}
-                                height={40}
-                                className="w-auto h-10 md:h-12"
+                                width={160}
+                                height={53}
+                                className="w-auto h-12 md:h-14"
                             />
                         </Link>
                     </div>
