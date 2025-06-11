@@ -49,7 +49,7 @@ export async function getCountries() {
 
     const data = await response.json()
 
-    const uae = data.find((country: Country) => country.name === "UAE")
+    const uae = data.find((country: Country) => country.name === "Saudi Arabia")
 
     const countries = data.filter((country: Country) => country.id !== uae.id)
     return [uae, ...countries] as Country[]
