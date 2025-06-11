@@ -7,7 +7,7 @@ export default function JoinInnerCircle() {
         <section className="bg-gradient-to-r from-[#F06280] via-[#F79721] to-[#F79D67] w-full">
             <div className="container mx-auto px-4 py-8 md:pt-[65px] md:pb-[56px]">
                 <div className="text-center font-neuething-sans text-black text-2xl md:text-3xl leading-normal">
-                    Join the KSA's Inner Circle for HR and WorkTech
+                    Join the KSA&apos;s Inner Circle for HR and WorkTech
                 </div>
 
                 <div className="mt-5 flex flex-col md:flex-row gap-4 justify-center items-center">
