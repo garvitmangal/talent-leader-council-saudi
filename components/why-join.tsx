@@ -9,22 +9,22 @@ export default function WhyJoin() {
 
     const slides = [
         {
-            image: "/v1749121301/tlc/2025/website/uae/DSC06250_bw.jpg",
+            image: "/v1749726923/tlc/2025/website/ksa/1.jpg",
             number: "1",
             text: "Gain unparalleled insights into regional talent trends and practices."
         },
         {
-            image: "/v1749121300/tlc/2025/website/uae/DSC06026_bw.jpg",
+            image: "/v1749726923/tlc/2025/website/ksa/2.jpg",
             number: "2",
             text: "Enhance professional credibility through recognition and certifications."
         },
         {
-            image: "/v1749121300/tlc/2025/website/uae/DSC06115_bw.jpg",
+            image: "/v1749726923/tlc/2025/website/ksa/3.jpg",
             number: "3",
             text: "Build meaningful connections with peers, thought leaders, and industry pioneers."
         },
         {
-            image: "/v1749121300/tlc/2025/website/uae/DSC06208_bw.jpg",
+            image: "/v1749726923/tlc/2025/website/ksa/4.jpg",
             number: "4",
             text: "Access opportunities for personal and professional growth through mentorship and leadership roles."
         }
